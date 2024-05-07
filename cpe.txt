@@ -1,2 +1,2 @@
-acme:thttpd
+cpe:2.3:a:paloaltonetworks:bridgecrew_checkov:2.0.0:*:*:*:*:*:*:*
 nothings:stb_truetype
